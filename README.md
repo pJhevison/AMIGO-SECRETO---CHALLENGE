@@ -1,5 +1,7 @@
 # Challenge One - Amigo Secreto
 
+![Imagem do Jogo](https://raw.githubusercontent.com/pJhevison/AMIGO-SECRETO---CHALLENGE/refs/heads/master/amigo%20secreto.webp)
+
 "Challenge One - Amigo Secreto" é um programa simples e divertido, desenvolvido para ajudar grupos de amigos a organizarem o tradicional jogo de Amigo Secreto. Com uma interface fácil de usar, permite que os participantes adicionem seus nomes e realizem sorteios automaticamente.
 
 ## Tecnologias Usadas
